@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nadina
+- 👀 I’m interested in Web design, testing
+- 🌱 I’m currently studying Systems analyst
+- 💞️ I’m looking to upgrade my Github and find a job in systems
+- 📫 How to reach me: https://www.linkedin.com/in/nadina-regensburger-14074813b/
